@@ -1,0 +1,18 @@
+{
+  "name": "web-learn-note",
+  "description": "web learn note",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melodyJie/web-learn-note.git"
+  },
+  "author": "melody-yangjie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melodyJie/web-learn-note/issues"
+  },
+  "homepage": "https://github.com/melodyJie/web-learn-note#readme"
+}
